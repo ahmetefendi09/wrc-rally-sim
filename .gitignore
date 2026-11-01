@@ -1,0 +1,7 @@
+# Binary
+wrc_rally
+
+# Build & temporary files
+*.o
+*.ppm
+*.log
